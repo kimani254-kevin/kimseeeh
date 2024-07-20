@@ -1,24 +1,72 @@
-<!doctype>
-<html>
-<html lang=eng>
 <head>
-    <title>kim</title>
-</head>
-<body>
-   <h1>kimkuwatakie</h1>
-<nav>
-<header>
-<h1>kuwatakie</h1>
-    <li>Home</li>
-    <li>ABOUT</li>
-    <li>SERVICES</li>
-</nav>
-<section>
-<p>Friend:
-My name is Mark. Please save my number. I am an honest businessman, I treat customers are always sincere and fast, if you need to deal,please feel free to contact me, I am here 24 hours.</p>
-<p>Wise to Wise via email, no sepa,if wise says</p>
-</section>
-</p>
-</body>
-</html>
+
+LILLE Jellini IML FORM слаmple/ LILLE
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+margin: 20px;
+
+}
+
+fieldset {
+
+border: 1px solid #ccc;
+
+padding: 10px;
+
+margin-bottom: 20px;
+
+}
+
+legend {
+
+font-weight: bold;
+
+}
+
+label {
+
+display: block;
+
+margin: 10px 0 5px;
+
+}
+
+input, select, textarea {
+
+width: 100%;
+
+padding: 8px;
+
+margin-bottom: 10px;
+
+box-sizing: border-box;
+
+}
+
+button {
+
+padding: 10px 20px;
+
+background-color: #007BFF;
+
+color: white;
+
+border: none;
+
+cursor: pointer;
+
+}
+
+button:hover {
+
+background-color: #0056b3;
+
+}
+
+</style>
 
